@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Another title
 ---
+
+some content
